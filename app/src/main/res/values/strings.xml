@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FoodOrderApp</string>
+    <string name="foodType">Indonesian Food</string>
+    <string name="popular_catagory">Popular This Week</string>
+    <string name="cart_des">Cart</string>
+    <string name="hint_search">Search</string>
+    <string name="recommended_catagory">Recommended for you</string>
+    <string name="all_menu">All Menu Items</string>
+</resources>
